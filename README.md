@@ -10,6 +10,7 @@
 - Line Chatbot
 - Line notify
 ## 功能列表
+- 課務
 - [ ] 選課
     - [ ] 加簽
     - [ ] 選課流程不明確
